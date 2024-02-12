@@ -12,7 +12,7 @@
 
 ***Per rimozione dei contenuti di questa pagina o altre domande:*** 
 
-[XXX](https://t.me/notfoundnotfoundnotfound)
+[Contatto Telegram](https://t.me/notfoundnotfoundnotfound)
 
 ---
 
