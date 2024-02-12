@@ -6,7 +6,7 @@
 > 
 
 <aside>
-💡 **DISCLAIMER** : i PDF contenuti all’interno di questo repository sono stati estratti dal gruppo Telegram del corso. Tutti i diritti sono riservati agli autori di tali documenti. Autorizzo l’utilizzo e la modifica del mio codice.
+💡 I Documenti in formato PDF contenuti all’interno di questo repository sono stati estratti dal gruppo Telegram del corso. Tutti i diritti sono riservati agli autori dei tali. Autorizzo l’utilizzo e la modifica del mio codice.
 
 </aside>
 
